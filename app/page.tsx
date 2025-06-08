@@ -9,7 +9,7 @@ export default function Home() {
         <p>A full walkthrough of integrating next-mdx, rehype-pretty-code, Shiki, and Tailwind typography in Next.js 15.3.3</p>
         <div className="flex">
           <Link href="/test">
-            <button className="bg-violet-400 py-2 px-4 text-white">View Test Page</button>
+            <button className="bg-violet-400 py-2 px-4 text-white cursor-pointer">View Test Page</button>
           </Link>
         </div>
       </div>
